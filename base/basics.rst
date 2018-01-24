@@ -27,7 +27,7 @@ python，ruby之类的动态语言优势在于其生产力，你能在极短时�
 
 * `《Python3 Cookbook》 <http://python3-cookbook.readthedocs.io/>`_ Python进阶读物，汇集了很多技巧。
 
-* `《Python高级编程》 <http://www.dongwm.com/archives/fen-xiang-%5B%3F%5D-ge-zhun-bei-gei-gong-si-jiang-pythongao-ji-bian-cheng-de-slide/>`_ 豆瓣工程师董伟明先生写的python高级编程 ppt
+* `《Python高级编程》 <http://dongweiming.github.io/Expert-Python/>`_ 豆瓣工程师董伟明先生写的python高级编程 ppt
 
 
 当然还有Python的官方文档作为参考，不过有些文档比较晦涩，还是推荐书籍入门。网上目前也可以搜到很多免费的电子书。
