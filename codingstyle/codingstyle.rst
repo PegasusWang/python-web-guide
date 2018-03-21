@@ -598,7 +598,7 @@ Readme Driven Development:
 - Describe the scope. (What defines what the system does and doesn't do?)
 - Summarise what it does. (What does it actually do? What is it for?)
 
-只有少数很复杂的系统需要详细的文档，架构图、UML、数据模型、处理流程、业务逻辑等需要整理成文档。Write the minimum vialbe system documentation.
+只有少数很复杂的系统需要详细的文档，架构图、UML、数据模型、处理流程、业务逻辑等需要整理成文档。Write the minimum viable system documentation.
 
 
 代码分支与代码管理
