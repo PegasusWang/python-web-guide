@@ -89,7 +89,7 @@ Mac 终端快速配置
 - 安装 oh-my-zsh 主题 powerlevel9k 或者 spaceship。推荐使用异步的更快的 https://github.com/romkatv/powerlevel10k。 常见其他主题有(pure, powerlevel9k, spaceship)
 - 安装 vim / spacevim /neovim
 - 最好安装 tmux 用来替代iterm2 分屏
-- 按需安装 htop/autojump/z/fzf/ag 等命令行工具(使用 brew 可以安装)
+- 按需安装 htop/btop/autojump/z/fzf/ag 等命令行工具(使用 brew 可以安装)
 
 可以参考我 github 上的快速配置教程：
 
